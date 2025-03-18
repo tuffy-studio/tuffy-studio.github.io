@@ -28,8 +28,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2025.09 -*, <a href="https://www.hit.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 哈尔滨工业大学 计算学部 计算机科学与技术, 推免硕士 
-- *2021.09 - 2025.06*, <a href="https://www.hit.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 哈尔滨工业大学 未来技术学院 计算机科学与技术, 本科
+- *2025.09 -*, <a href="https://www.hit.edu.cn/"><img class="svg" src="/images/HIT_logo.png" width="23pt"></a> 哈尔滨工业大学 计算学部 计算机科学与技术, 推免硕士 
+- *2021.09 - 2025.06*, <a href="https://www.hit.edu.cn/"><img class="svg" src="/images/HIT_logo.png" width="20pt"></a> 哈尔滨工业大学 未来技术学院 计算机科学与技术, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
