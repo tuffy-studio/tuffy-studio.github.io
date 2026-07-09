@@ -150,7 +150,7 @@ window.addEventListener('scroll', function() {
 
 - Winner (1/101) in IJCAI 2026, DDL 2.0 General AIGC Audio-Video Detection Challenge. (Team Leader)
 
-- Winner (1/127) in IJCAI 2026, DDL 2.0 Deepfake Detection, Localization, and Explainability Challenge. 
+- Winner (1/127) in IJCAI 2026, DDL 2.0 Deepfake Detection, Localization, and Explainability Challenge. (co-first author)
 
 - Top 2% (7/337) performance in CVPR 2026, NTIRE Robust Deepfake Detection Challenge. (Team Leader)
 
