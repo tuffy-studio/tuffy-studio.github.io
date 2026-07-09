@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jielun Peng"
-description              : "Deepfake Detection Research. "
+description              : "First year graduate student. "
 repository               : "tuffy-studio/tuffy-studio.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jielun Peng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Deepfake Detection Researcher"
+  bio              : "Harbin Institute of Technology"
   location         : "Harbin, China"
   employer         :
   pubmed           : 
