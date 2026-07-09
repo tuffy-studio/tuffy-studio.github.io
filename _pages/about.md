@@ -17,12 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
+Hello, I am currently a first year master’s student at Harbin Institute of Technology (HIT), China. I am advised by Prof. [Xiaopeng Hong](https://homepage.hit.edu.cn/hongxiaopeng). My current research primarily focuses on the development and implementation of Socially-Responsible AI, with particular attention to its applications in:
 My research interest includes AIGC/Deepfake detection.
 
 # 📖 Educations
-- *2025.09 - 2028.01 (expected)*, A master’s student in Faculty of computing, Harbin Institute of Technology. Advisor: Prof. Xiaopeng Hong
+- *2025.09 - 2028.01 (expected)*, A master’s student in Faculty of computing, Harbin Institute of Technology. Advisor: Prof. [Xiaopeng Hong](https://homepage.hit.edu.cn/hongxiaopeng)
 - *2021.09 - 2025.06*, B.Sc. in School of Future Technology, Harbin Institute of Technology.
 
 # 🔥 News
