@@ -16,9 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# **Jielun Peng** **彭杰伦**[^1]
+# 👋 **Jielun Peng** **彭杰伦**[^1]
 
-[^1]: My parents are big fans of Jay Chou (周杰伦), hence the name.
 I received my B.S. degree in 2025 from School of Future Technology at Harbin Institute of Technology (HIT), China.
 I am currently a first year master’s student at HIT, advised by Prof. [Xiaopeng Hong](https://homepage.hit.edu.cn/hongxiaopeng). My research primarily focuses on the development and implementation of AIGC/Deepfake detection, with particular attention to its applications in:
 
@@ -161,3 +160,5 @@ window.addEventListener('scroll', function() {
 - *2024.12* National Schloarship of P.R. China.
 - *2023.11* Ministry of Education of P.R. China - Huawei Scholarship.
 
+
+[^1]: My parents are big fans of Jay Chou (周杰伦), hence the name.
