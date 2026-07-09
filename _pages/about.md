@@ -34,7 +34,7 @@ I am currently a first year master’s student at HIT, advised by Prof. [Xiaopen
 <div class="news-buttons" style="margin-bottom: 25px; display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <span style="font-weight: bold;">Filter:</span>
   <button onclick="filterNews('all', event)" style="background: #333; color: white; border: none; padding: 4px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em;">Show All</button>
-  <button onclick="filterNews('award', event)" style="background: #f1f1f1; border: 1px solid #ddd; padding: 4px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; color: #333;">🏆 Awards</button>
+  <!-- <button onclick="filterNews('award', event)" style="background: #f1f1f1; border: 1px solid #ddd; padding: 4px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; color: #333;">🏆 Awards</button> -->
   <button onclick="filterNews('paper', event)" style="background: #f1f1f1; border: 1px solid #ddd; padding: 4px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; color: #333;">📝 Publications</button>
   <button onclick="filterNews('challenge', event)" style="background: #f1f1f1; border: 1px solid #ddd; padding: 4px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; color: #333;">🚀 Challenges</button>
 </div>
@@ -139,11 +139,13 @@ window.addEventListener('scroll', function() {
 
 # 📝 Publications 
 
-<span class="conference-tag">CVPR 2026 (Findings)</span> Jielun Peng, Yabin Wang, Yaqi Li, Long Kong, Xiaopeng Hong. *Leave No Stone Unturned: Uncovering Holistic Audio-Visual Intrinsic Coherence for Deepfake Detection.* [[paper]](https://openaccess.thecvf.com/content/CVPR2026F/html/Peng_Leave_No_Stone_Unturned_Uncovering_Holistic_Audio-Visual_Intrinsic_Coherence_for_CVPRF_2026_paper.html)
+**CVPR 2026 (Findings)** <u>Jielun Peng</u>, Yabin Wang, Yaqi Li, Long Kong, Xiaopeng Hong. *Leave No Stone Unturned: Uncovering Holistic Audio-Visual Intrinsic Coherence for Deepfake Detection.* [[paper]](https://openaccess.thecvf.com/content/CVPR2026F/html/Peng_Leave_No_Stone_Unturned_Uncovering_Holistic_Audio-Visual_Intrinsic_Coherence_for_CVPRF_2026_paper.html)
+
+**IEEE TMC (CCF-A)**  Dongbo Li, Yuchen Sun, <u>Jielun Peng</u>, Siyao Cheng, Zhisheng Yin, Nan Cheng, Jie Liu, Zhijun Li, Chenren Xu. *Dual network computation offloading based on DRL for satellite-terrestrial integrated networks.* [[paper]](https://ieeexplore.ieee.org/abstract/document/10746595/)
 
 
 # 🎖 Honors and Awards
-- *2025.11* Outstanding Master Student Scholarship of Harbin Institute of Technology
+- *2025.11* Outstanding Master Student Scholarship of Harbin Institute of Technology.
 - *2025.05* Excellent Graduate of Harbin Institute of Technology.
 - *2024.12* 2023-2024 National Schloarship of P.R. China.
 - *2023.11* Ministry of Education of P.R. China - Huawei Scholarship.
