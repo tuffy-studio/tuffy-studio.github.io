@@ -143,6 +143,15 @@ window.addEventListener('scroll', function() {
 
 [**IEEE TMC (CCF-A)**]  Dongbo Li, Yuchen Sun, <u>Jielun Peng</u>, Siyao Cheng, Zhisheng Yin, Nan Cheng, Jie Liu, Zhijun Li, Chenren Xu. *Dual network computation offloading based on DRL for satellite-terrestrial integrated networks.* [[paper]](https://ieeexplore.ieee.org/abstract/document/10746595/)
 
+# 🚀 Challenges
+
+- Top 3 performance in ACM MM 2026, Explainable Deepfake Detection Challenge.
+
+- Winner (1/101) in IJCAI 2026, DDL 2.0 General AIGC Audio-Video Detection Challenge.
+
+- Winner (1/127) in IJCAI 2026, DDL 2.0 Deepfake Detection, Localization, and Explainability Challenge.
+
+- Top 2% (7/337) performance in CVPR 2026, NTIRE Robust Deepfake Detection Challenge.
 
 # 🎖 Honors and Awards
 - *2025.11* Outstanding Master Student Scholarship of Harbin Institute of Technology.
