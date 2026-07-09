@@ -147,6 +147,6 @@ window.addEventListener('scroll', function() {
 # 🎖 Honors and Awards
 - *2025.11* Outstanding Master Student Scholarship of Harbin Institute of Technology.
 - *2025.05* Excellent Graduate of Harbin Institute of Technology.
-- *2024.12* 2023-2024 National Schloarship of P.R. China.
+- *2024.12* National Schloarship of P.R. China.
 - *2023.11* Ministry of Education of P.R. China - Huawei Scholarship.
 
