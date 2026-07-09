@@ -145,13 +145,13 @@ window.addEventListener('scroll', function() {
 
 # 🚀 Challenges
 
-- Top 3 performance in ACM MM 2026, Explainable Deepfake Detection Challenge.
+- Top 3 performance in ACM MM 2026, Explainable Deepfake Detection Challenge. (Team Leader)
 
-- Winner (1/101) in IJCAI 2026, DDL 2.0 General AIGC Audio-Video Detection Challenge.
+- Winner (1/101) in IJCAI 2026, DDL 2.0 General AIGC Audio-Video Detection Challenge. (Team Leader)
 
-- Winner (1/127) in IJCAI 2026, DDL 2.0 Deepfake Detection, Localization, and Explainability Challenge.
+- Winner (1/127) in IJCAI 2026, DDL 2.0 Deepfake Detection, Localization, and Explainability Challenge. 
 
-- Top 2% (7/337) performance in CVPR 2026, NTIRE Robust Deepfake Detection Challenge.
+- Top 2% (7/337) performance in CVPR 2026, NTIRE Robust Deepfake Detection Challenge. (Team Leader)
 
 # 🎖 Honors and Awards
 - *2025.11* Outstanding Master Student Scholarship of Harbin Institute of Technology.
