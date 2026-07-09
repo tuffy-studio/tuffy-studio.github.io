@@ -139,9 +139,9 @@ window.addEventListener('scroll', function() {
 
 # 📝 Publications 
 
-**CVPR 2026 (Findings)** <u>Jielun Peng</u>, Yabin Wang, Yaqi Li, Long Kong, Xiaopeng Hong. *Leave No Stone Unturned: Uncovering Holistic Audio-Visual Intrinsic Coherence for Deepfake Detection.* [[paper]](https://openaccess.thecvf.com/content/CVPR2026F/html/Peng_Leave_No_Stone_Unturned_Uncovering_Holistic_Audio-Visual_Intrinsic_Coherence_for_CVPRF_2026_paper.html)
+[**CVPR 2026 (Findings)**] <u>Jielun Peng</u>, Yabin Wang, Yaqi Li, Long Kong, Xiaopeng Hong. *Leave No Stone Unturned: Uncovering Holistic Audio-Visual Intrinsic Coherence for Deepfake Detection.* [[paper]](https://openaccess.thecvf.com/content/CVPR2026F/html/Peng_Leave_No_Stone_Unturned_Uncovering_Holistic_Audio-Visual_Intrinsic_Coherence_for_CVPRF_2026_paper.html)
 
-**IEEE TMC (CCF-A)**  Dongbo Li, Yuchen Sun, <u>Jielun Peng</u>, Siyao Cheng, Zhisheng Yin, Nan Cheng, Jie Liu, Zhijun Li, Chenren Xu. *Dual network computation offloading based on DRL for satellite-terrestrial integrated networks.* [[paper]](https://ieeexplore.ieee.org/abstract/document/10746595/)
+[**IEEE TMC (CCF-A)**]  Dongbo Li, Yuchen Sun, <u>Jielun Peng</u>, Siyao Cheng, Zhisheng Yin, Nan Cheng, Jie Liu, Zhijun Li, Chenren Xu. *Dual network computation offloading based on DRL for satellite-terrestrial integrated networks.* [[paper]](https://ieeexplore.ieee.org/abstract/document/10746595/)
 
 
 # 🎖 Honors and Awards
