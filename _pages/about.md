@@ -22,7 +22,7 @@ I received my B.S. degree in 2025 from School of Future Technology at Harbin Ins
 I am currently a first year master’s student at HIT, advised by Prof. [Xiaopeng Hong](https://homepage.hit.edu.cn/hongxiaopeng). My research primarily focuses on the development and implementation of AIGC/Deepfake detection, with particular attention to its applications in:
 
 - Audio-Visual Deepfake Detection
-- Explainable AIGC/deepfake detection
+- Explainable AIGC/Deepfake Detection
 - Temporal/Spatial Forgery Localization
 
 
