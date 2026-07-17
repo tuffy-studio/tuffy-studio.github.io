@@ -54,7 +54,7 @@ I am currently a first year master’s student at HIT, advised by Prof. [Xiaopen
 
   <div class="news-item challenge" style="margin-bottom: 15px; display: flex; align-items: flex-start;">
     <span style="flex: 0 0 100px; color: #666; font-size: 0.95em; font-family: monospace;">2026.06</span>
-    <span style="margin-left: 15px;"><b style="color: #0B3C8A;">[Winner]</b> Winner (1/127) in IJCAI 2026, DDL 2.0 Deepfake Detection, Localization, and Explainability Challenge.</span>
+    <span style="margin-left: 15px;"><b style="color: #0B3C8A;">[Winner]</b> Winner (1/113) in IJCAI 2026, DDL 2.0 Deepfake Detection, Localization, and Explainability Challenge.</span>
   </div>
 
   <div class="news-item challenge" style="margin-bottom: 15px; display: flex; align-items: flex-start;">
