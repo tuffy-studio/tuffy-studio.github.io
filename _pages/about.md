@@ -42,7 +42,7 @@ I am currently a first year master’s student at HIT, advised by Prof. [Xiaopen
 
 <div id="news-timeline" style="padding: 10px 5px; border-left: 2px solid #eee; margin-left: 10px;">
 
-  <div class="news-item challenge" style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+  <div class="news-item paper" style="margin-bottom: 15px; display: flex; align-items: flex-start;">
     <span style="flex: 0 0 100px; color: #666; font-size: 0.95em; font-family: monospace;">2026.07</span>
     <span style="margin-left: 15px;"><b style="color: #27ae60;">[ACM MM]</b> One paper is accepted by ACM MM 2026.</span>
   </div>
