@@ -44,7 +44,7 @@ I am currently a first year master’s student at HIT, advised by Prof. [Xiaopen
 
   <div class="news-item challenge" style="margin-bottom: 15px; display: flex; align-items: flex-start;">
     <span style="flex: 0 0 100px; color: #666; font-size: 0.95em; font-family: monospace;">2026.06</span>
-    <span style="margin-left: 15px;"><b style="color: #0B3C8A;">[Top 3]</b> Top 3 performance in ACM MM 2026, Explainable Deepfake Detection Challenge.</span>
+    <span style="margin-left: 15px;"><b style="color: #27ae60;">[ACM MM]</b> One paper is accepted by ACM MM 2026.</span>
   </div>
 
   <div class="news-item challenge" style="margin-bottom: 15px; display: flex; align-items: flex-start;">
@@ -145,8 +145,6 @@ window.addEventListener('scroll', function() {
 [**IEEE TMC (CCF-A)**]  Dongbo Li, Yuchen Sun, <u>Jielun Peng</u>, Siyao Cheng, Zhisheng Yin, Nan Cheng, Jie Liu, Zhijun Li, Chenren Xu. *Dual network computation offloading based on DRL for satellite-terrestrial integrated networks.* [[paper]](https://ieeexplore.ieee.org/abstract/document/10746595/)
 
 # 🚀 Challenges
-
-- Top 3 performance in ACM MM 2026, Explainable Deepfake Detection Challenge. (Team Leader)
 
 - Winner (1/101) in IJCAI 2026, DDL 2.0 General AIGC Audio-Video Detection Challenge. (Team Leader)
 
