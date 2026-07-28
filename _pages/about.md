@@ -160,3 +160,10 @@ window.addEventListener('scroll', function() {
 
 
 [^1]: My parents are big fans of Jay Chou (周杰伦), hence the name.
+
+<div class="page-meta">
+  <span>Last updated: 2026.07</span>
+  <a class="hit-counter" href="https://hits.sh/tuffy-studio.github.io/" target="_blank" rel="noopener noreferrer" title="View public visit statistics">
+    <img src="https://hits.sh/tuffy-studio.github.io.svg?view=total&amp;style=flat-square&amp;label=Visits&amp;color=9f9f9f&amp;labelColor=cccccc" alt="Total visits">
+  </a>
+</div>
