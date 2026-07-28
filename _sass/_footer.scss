@@ -90,3 +90,30 @@
     }
   }
 }
+
+.page__footer-meta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.75em;
+  font-size: $type-size-7;
+  color: mix(#fff, $gray, 25%);
+
+  .hit-counter {
+    display: inline-block;
+    opacity: 0.75;
+    transition: opacity 0.2s ease-in-out;
+
+    &:hover {
+      opacity: 1;
+    }
+
+    img {
+      width: auto;
+      max-width: 100%;
+      height: 18px;
+      vertical-align: middle;
+    }
+  }
+}
