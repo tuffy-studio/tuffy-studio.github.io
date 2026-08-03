@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 👋 **Jielun Peng** **彭杰伦**[^1]
 
-I am currently a first year master’s student at HIT, advised by Prof. [Xiaopeng Hong](https://homepage.hit.edu.cn/hongxiaopeng). I received my B.S. degree in 2025 from School of Future Technology at Harbin Institute of Technology (HIT), China. I am interested in deep learning, multi-modal learning, AI agents, and generative models. My research primarily focuses on the development and implementation of AI safety, with particular attention to its applications in:
+I am currently a first year master’s student at Harbin Institute of Technology (HIT), China, advised by Prof. [Xiaopeng Hong](https://homepage.hit.edu.cn/hongxiaopeng). I received my B.S. degree in 2025 from School of Future Technology at HIT. I am interested in deep learning, multi-modal learning, AI agents, and generative models. My research primarily focuses on the development and implementation of AI safety, with particular attention to its applications in:
 
 - Audio-Visual Deepfake Detection
 - Explainable AIGC/Deepfake Detection with MLLMs
