@@ -18,8 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 👋 **Jielun Peng** **彭杰伦**[^1]
 
-I received my B.S. degree in 2025 from School of Future Technology at Harbin Institute of Technology (HIT), China.
-I am currently a first year master’s student at HIT, advised by Prof. [Xiaopeng Hong](https://homepage.hit.edu.cn/hongxiaopeng). My research primarily focuses on the development and implementation of AI safety, with particular attention to its applications in:
+I am currently a first year master’s student at HIT, advised by Prof. [Xiaopeng Hong](https://homepage.hit.edu.cn/hongxiaopeng). I received my B.S. degree in 2025 from School of Future Technology at Harbin Institute of Technology (HIT), China. I am interested in deep learning, multi-modal learning, AI agents, and generative models. My research primarily focuses on the development and implementation of AI safety, with particular attention to its applications in:
 
 - Audio-Visual Deepfake Detection
 - Explainable AIGC/Deepfake Detection with MLLMs
@@ -43,8 +42,18 @@ I am currently a first year master’s student at HIT, advised by Prof. [Xiaopen
 <div id="news-timeline" style="padding: 10px 5px; border-left: 2px solid #eee; margin-left: 10px;">
 
   <div class="news-item paper" style="margin-bottom: 15px; display: flex; align-items: flex-start;">
-    <span style="flex: 0 0 100px; color: #666; font-size: 0.95em; font-family: monospace;">2026.07</span>
+    <span style="flex: 0 0 100px; color: #666; font-size: 0.95em; font-family: monospace;">2026.08</span>
     <span style="margin-left: 15px;"><b style="color: #27ae60;">[ACM MM]</b> One paper is accepted by ACM MM 2026.</span>
+  </div>
+
+  <div class="news-item paper" style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+    <span style="flex: 0 0 100px; color: #666; font-size: 0.95em; font-family: monospace;">2026.07</span>
+    <span style="margin-left: 15px;"><b style="color: #27ae60;">[IJCAI Workshop]</b> Two papers are accepted by IJCAI 2026 AI Safety workshop.</span>
+  </div>
+
+  <div class="news-item challenge" style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+    <span style="flex: 0 0 100px; color: #666; font-size: 0.95em; font-family: monospace;">2026.07</span>
+    <span style="margin-left: 15px;"><b style="color: #0B3C8A;">[Top 3%]</b> Top 3% (4/144) performance in ACM MM 2026, Explainable Deepfake Detection Challenge.</span>
   </div>
 
   <div class="news-item challenge" style="margin-bottom: 15px; display: flex; align-items: flex-start;">
@@ -140,17 +149,21 @@ window.addEventListener('scroll', function() {
 
 # 📝 Publications 
 
-[**CVPR 2026 (Findings)**] <u>Jielun Peng</u>, Yabin Wang, Yaqi Li, Long Kong, Xiaopeng Hong. *Leave No Stone Unturned: Uncovering Holistic Audio-Visual Intrinsic Coherence for Deepfake Detection.* [[paper]](https://openaccess.thecvf.com/content/CVPR2026F/html/Peng_Leave_No_Stone_Unturned_Uncovering_Holistic_Audio-Visual_Intrinsic_Coherence_for_CVPRF_2026_paper.html)
+[**IJCAI 2026 Workshop**]  <u>Jielun Peng</u>, Yabin Wang, Yaqi Li, Jincheng Liu, Xiaopeng Hong, and Athanasios V. Vasilakos. *Less is More: Modality-Decoupling for General AIGC Audio-Video Detection.* [[paper]](https://arxiv.org/pdf/2607.25543)[[code]](https://github.com/tuffy-studio/DAV-Det)
+
+[**CVPR 2026 (Findings)**] <u>Jielun Peng</u>, Yabin Wang, Yaqi Li, Long Kong, Xiaopeng Hong. *Leave No Stone Unturned: Uncovering Holistic Audio-Visual Intrinsic Coherence for Deepfake Detection.* [[paper]](https://openaccess.thecvf.com/content/CVPR2026F/html/Peng_Leave_No_Stone_Unturned_Uncovering_Holistic_Audio-Visual_Intrinsic_Coherence_for_CVPRF_2026_paper.html)[[code]](https://github.com/tuffy-studio/HAVIC)
 
 [**IEEE TMC (CCF-A)**]  Dongbo Li, Yuchen Sun, <u>Jielun Peng</u>, Siyao Cheng, Zhisheng Yin, Nan Cheng, Jie Liu, Zhijun Li, Chenren Xu. *Dual network computation offloading based on DRL for satellite-terrestrial integrated networks.* [[paper]](https://ieeexplore.ieee.org/abstract/document/10746595/)
 
 # 🚀 Challenges
 
-- Winner (1/101) in IJCAI 2026, DDL 2.0 General AIGC Audio-Video Detection Challenge. (Team Leader)
+- Top 3% (4/144) performance in [ACM MM 2026, Explainable Deepfake Detection Challenge](https://www.codabench.org/competitions/16461/). (Team Leader) 
 
-- Winner (1/113) in IJCAI 2026, DDL 2.0 Deepfake Detection, Localization, and Explainability Challenge. (co-first author)
+- Winner (1/101) in [IJCAI 2026, DDL 2.0 General AIGC Audio-Video Detection Challenge](https://www.codabench.org/competitions/15769). (Team Leader)
 
-- Top 2% (7/337) performance in CVPR 2026, NTIRE Robust Deepfake Detection Challenge. (Team Leader)
+- Winner (1/113) in [IJCAI 2026, DDL 2.0 Deepfake Detection, Localization, and Explainability Challenge](https://www.codabench.org/competitions/15686/). (co-first author)
+
+- Top 2% (7/337) performance in [CVPR 2026, NTIRE Robust Deepfake Detection Challenge](https://arxiv.org/pdf/2604.24163). (Team Leader)
 
 # 🎖 Honors and Awards
 - *2025.11* Outstanding Master Student Scholarship of Harbin Institute of Technology.
