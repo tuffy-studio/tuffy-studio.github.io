@@ -149,6 +149,8 @@ window.addEventListener('scroll', function() {
 
 # 📝 Publications 
 
+[**ACM MM (CCF-A)**]  <u>Jielun Peng</u>, Yabin Wang, Yaqi Li, Jincheng Liu, Xiaopeng Hong, and Athanasios V. Vasilakos. *Multi-Granularity Deepfake Detector-grounded Progressive Explanation Generation for Explainable Deepfake Detection.* To appear.[[code]](https://github.com/tuffy-studio/GPS-Det)
+
 [**IJCAI 2026 Workshop**]  <u>Jielun Peng</u>, Yabin Wang, Yaqi Li, Jincheng Liu, Xiaopeng Hong, and Athanasios V. Vasilakos. *Less is More: Modality-Decoupling for General AIGC Audio-Video Detection.* [[paper]](https://arxiv.org/pdf/2607.25543)[[code]](https://github.com/tuffy-studio/DAV-Det)
 
 [**CVPR 2026 (Findings)**] <u>Jielun Peng</u>, Yabin Wang, Yaqi Li, Long Kong, Xiaopeng Hong. *Leave No Stone Unturned: Uncovering Holistic Audio-Visual Intrinsic Coherence for Deepfake Detection.* [[paper]](https://openaccess.thecvf.com/content/CVPR2026F/html/Peng_Leave_No_Stone_Unturned_Uncovering_Holistic_Audio-Visual_Intrinsic_Coherence_for_CVPRF_2026_paper.html)[[code]](https://github.com/tuffy-studio/HAVIC)
