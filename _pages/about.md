@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 👋 **Jielun Peng** **彭杰伦**[^1]
+# 👋Hello, I am **Jielun Peng** **彭杰伦**[^1]
 
 I am currently a first year master’s student at Harbin Institute of Technology (HIT), China, advised by Prof. [Xiaopeng Hong](https://homepage.hit.edu.cn/hongxiaopeng). I received my B.S. degree in 2025 from School of Future Technology at HIT. I am interested in deep learning, multi-modal learning, AI agents, and generative models. My research primarily focuses on the development and implementation of AI safety, with particular attention to its applications in:
 
@@ -151,6 +151,8 @@ window.addEventListener('scroll', function() {
 
 [**ACM MM (CCF-A)**]  <u>Jielun Peng</u>, Yabin Wang, Yaqi Li, Jincheng Liu, Xiaopeng Hong, and Athanasios V. Vasilakos. *Multi-Granularity Deepfake Detector-grounded Progressive Explanation Generation for Explainable Deepfake Detection.* To appear.[[code]](https://github.com/tuffy-studio/GPS-Det)
 
+[**IJCAI 2026 Workshop**]  Yaqi Li*, <u>Jielun Peng</u>*, Yabin Wang, Jincheng Liu, Xiaopeng Hong. *PATE-Forensics: Perception-as-Tool for Explainable Deepfake Forensics with General-Purpose MLLMs.* [[paper]](https://arxiv.org/abs/2608.18573)[[code]](https://github.com/yqli00000/PATE-Forensics)
+
 [**IJCAI 2026 Workshop**]  <u>Jielun Peng</u>, Yabin Wang, Yaqi Li, Jincheng Liu, Xiaopeng Hong, and Athanasios V. Vasilakos. *Less is More: Modality-Decoupling for General AIGC Audio-Video Detection.* [[paper]](https://arxiv.org/pdf/2607.25543)[[code]](https://github.com/tuffy-studio/DAV-Det)
 
 [**CVPR 2026 (Findings)**] <u>Jielun Peng</u>, Yabin Wang, Yaqi Li, Long Kong, Xiaopeng Hong. *Leave No Stone Unturned: Uncovering Holistic Audio-Visual Intrinsic Coherence for Deepfake Detection.* [[paper]](https://openaccess.thecvf.com/content/CVPR2026F/html/Peng_Leave_No_Stone_Unturned_Uncovering_Holistic_Audio-Visual_Intrinsic_Coherence_for_CVPRF_2026_paper.html)[[code]](https://github.com/tuffy-studio/HAVIC)
@@ -177,7 +179,7 @@ window.addEventListener('scroll', function() {
 [^1]: My parents are big fans of Jay Chou (周杰伦), hence the name.
 
 <div class="page-meta">
-  <span>Last updated: 2026.08.03</span>
+  <span>Last updated: 2026.08.22</span>
   <a class="hit-counter" href="https://hits.sh/tuffy-studio.github.io/" target="_blank" rel="noopener noreferrer" title="View public visit statistics">
     <img src="https://hits.sh/tuffy-studio.github.io.svg?view=total&amp;style=flat-square&amp;label=Visits&amp;color=9f9f9f&amp;labelColor=cccccc" alt="Total visits">
   </a>
