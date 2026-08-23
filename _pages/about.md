@@ -151,7 +151,7 @@ window.addEventListener('scroll', function() {
 
 [**ACM MM (CCF-A)**]  <u>Jielun Peng</u>, Yabin Wang, Yaqi Li, Jincheng Liu, Xiaopeng Hong, and Athanasios V. Vasilakos. *Multi-Granularity Deepfake Detector-grounded Progressive Explanation Generation for Explainable Deepfake Detection.* To appear.[[code]](https://github.com/tuffy-studio/GPS-Det)
 
-[**IJCAI 2026 Workshop**]  Yaqi Li*, <u>Jielun Peng</u>*, Yabin Wang, Jincheng Liu, Xiaopeng Hong. *PATE-Forensics: Perception-as-Tool for Explainable Deepfake Forensics with General-Purpose MLLMs.* [[paper]](https://arxiv.org/abs/2608.18573)[[code]](https://github.com/yqli00000/PATE-Forensics)
+[**IJCAI 2026 Workshop**]  Yaqi Li, <u>Jielun Peng</u>, Yabin Wang, Jincheng Liu, Xiaopeng Hong. *PATE-Forensics: Perception-as-Tool for Explainable Deepfake Forensics with General-Purpose MLLMs.* [[paper]](https://arxiv.org/abs/2608.18573)[[code]](https://github.com/yqli00000/PATE-Forensics)
 
 [**IJCAI 2026 Workshop**]  <u>Jielun Peng</u>, Yabin Wang, Yaqi Li, Jincheng Liu, Xiaopeng Hong, and Athanasios V. Vasilakos. *Less is More: Modality-Decoupling for General AIGC Audio-Video Detection.* [[paper]](https://arxiv.org/pdf/2607.25543)[[code]](https://github.com/tuffy-studio/DAV-Det)
 
