@@ -41,6 +41,12 @@ I am currently a first year master’s student at Harbin Institute of Technology
 
 <div id="news-timeline" style="padding: 10px 5px; border-left: 2px solid #eee; margin-left: 10px;">
 
+  <div class="news-item challenge" style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+    <span style="flex: 0 0 100px; color: #666; font-size: 0.95em; font-family: monospace;">2026.07</span>
+    <span style="margin-left: 15px;"><b style="color: #0B3C8A;">[Excellence Award]</b> We won Excellence Award in Multimodal Forgery Detection Track, China — ASEAN Artificial Intelligence Security Competition</span>
+  </div>
+
+
   <div class="news-item paper" style="margin-bottom: 15px; display: flex; align-items: flex-start;">
     <span style="flex: 0 0 100px; color: #666; font-size: 0.95em; font-family: monospace;">2026.08</span>
     <span style="margin-left: 15px;"><b style="color: #27ae60;">[ACM MM]</b> One paper is accepted by ACM MM 2026.</span>
@@ -161,6 +167,8 @@ window.addEventListener('scroll', function() {
 
 # 🚀 Challenges
 
+- Excellence Award in [Multimodal Forgery Detection Track, China — ASEAN Artificial Intelligence Security Competition](http://dsjfzj.gxzf.gov.cn/dz/). (Team Leader)
+
 - Top 3% (4/144) performance in [ACM MM 2026, Explainable Deepfake Detection Challenge](https://www.codabench.org/competitions/16461/). (Team Leader) 
 
 - Winner (1/101) in [IJCAI 2026, DDL 2.0 General AIGC Audio-Video Detection Challenge](https://www.codabench.org/competitions/15769). (Team Leader)
@@ -179,7 +187,7 @@ window.addEventListener('scroll', function() {
 [^1]: My parents are big fans of Jay Chou (周杰伦), hence the name.
 
 <div class="page-meta">
-  <span>Last updated: 2026.08.22</span>
+  <span>Last updated: 2026.08.28</span>
   <a class="hit-counter" href="https://hits.sh/tuffy-studio.github.io/" target="_blank" rel="noopener noreferrer" title="View public visit statistics">
     <img src="https://hits.sh/tuffy-studio.github.io.svg?view=total&amp;style=flat-square&amp;label=Visits&amp;color=9f9f9f&amp;labelColor=cccccc" alt="Total visits">
   </a>
