@@ -42,7 +42,7 @@ I am currently a second year master’s student at Harbin Institute of Technolog
 <div id="news-timeline" style="padding: 10px 5px; border-left: 2px solid #eee; margin-left: 10px;">
 
   <div class="news-item challenge" style="margin-bottom: 15px; display: flex; align-items: flex-start;">
-    <span style="flex: 0 0 100px; color: #666; font-size: 0.95em; font-family: monospace;">2026.07</span>
+    <span style="flex: 0 0 100px; color: #666; font-size: 0.95em; font-family: monospace;">2026.08</span>
     <span style="margin-left: 15px;"><b style="color: #0B3C8A;">[Excellence Award]</b> in Multimodal Forgery Detection Track, China — ASEAN Artificial Intelligence Security Competition.</span>
   </div>
 
