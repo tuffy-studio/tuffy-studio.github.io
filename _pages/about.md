@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 👋Hello, I am **Jielun Peng** **彭杰伦**[^1]
 
-I am currently a first year master’s student at Harbin Institute of Technology (HIT), China, advised by Prof. [Xiaopeng Hong](https://homepage.hit.edu.cn/hongxiaopeng). I received my B.S. degree in 2025 from School of Future Technology at HIT. I am interested in deep learning, multi-modal learning, AI agents, and generative models. My research primarily focuses on the development and implementation of AI safety, with particular attention to its applications in:
+I am currently a second year master’s student at Harbin Institute of Technology (HIT), China, advised by Prof. [Xiaopeng Hong](https://homepage.hit.edu.cn/hongxiaopeng). I received my B.S. degree in 2025 from School of Future Technology at HIT. I am interested in deep learning, multi-modal learning, AI agents, and generative models. My research primarily focuses on the development and implementation of AI safety, with particular attention to its applications in:
 
 - Audio-Visual Deepfake Detection
 - Explainable AIGC/Deepfake Detection with MLLMs
@@ -43,7 +43,7 @@ I am currently a first year master’s student at Harbin Institute of Technology
 
   <div class="news-item challenge" style="margin-bottom: 15px; display: flex; align-items: flex-start;">
     <span style="flex: 0 0 100px; color: #666; font-size: 0.95em; font-family: monospace;">2026.07</span>
-    <span style="margin-left: 15px;"><b style="color: #0B3C8A;">[Excellence Award]</b> in Multimodal Forgery Detection Track, China — ASEAN Artificial Intelligence Security Competition</span>
+    <span style="margin-left: 15px;"><b style="color: #0B3C8A;">[Excellence Award]</b> in Multimodal Forgery Detection Track, China — ASEAN Artificial Intelligence Security Competition.</span>
   </div>
 
 
@@ -187,7 +187,7 @@ window.addEventListener('scroll', function() {
 [^1]: My parents are big fans of Jay Chou (周杰伦), hence the name.
 
 <div class="page-meta">
-  <span>Last updated: 2026.08.28</span>
+  <span>Last updated: 2026.09.07</span>
   <a class="hit-counter" href="https://hits.sh/tuffy-studio.github.io/" target="_blank" rel="noopener noreferrer" title="View public visit statistics">
     <img src="https://hits.sh/tuffy-studio.github.io.svg?view=total&amp;style=flat-square&amp;label=Visits&amp;color=9f9f9f&amp;labelColor=cccccc" alt="Total visits">
   </a>
