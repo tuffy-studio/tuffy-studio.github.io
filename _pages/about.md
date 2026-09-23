@@ -79,7 +79,7 @@ I am currently a second year master’s student at Harbin Institute of Technolog
 
   <div class="news-item paper" style="margin-bottom: 15px; display: flex; align-items: flex-start;">
     <span style="flex: 0 0 100px; color: #666; font-size: 0.95em; font-family: monospace;">2026.02</span>
-    <span style="margin-left: 15px;"><b style="color: #27ae60;">[CVPR]</b> One paper is accepted by CVPR 2026 Findings. <a href="#" target="_blank">[Paper]</a></span>
+    <span style="margin-left: 15px;"><b style="color: #27ae60;">[CVPR]</b> One paper is accepted by CVPR 2026 Findings.</span>
   </div>
 
 </div>
@@ -178,16 +178,17 @@ window.addEventListener('scroll', function() {
 - Top 2% (7/337) performance in [CVPR 2026, NTIRE Robust Deepfake Detection Challenge](https://arxiv.org/pdf/2604.24163). (Team Leader)
 
 # 🎖 Honors and Awards
+- *2026.09* Outstanding Master Student Scholarship of Harbin Institute of Technology. (6/154)
 - *2025.11* Outstanding Master Student Scholarship of Harbin Institute of Technology.
 - *2025.05* Excellent Graduate of Harbin Institute of Technology.
-- *2024.12* National Schloarship of P.R. China.
+- *2024.12* National Scholarship of P.R. China.
 - *2023.11* Ministry of Education of P.R. China - Huawei Scholarship.
 
 
 [^1]: My parents are big fans of Jay Chou (周杰伦), hence the name.
 
 <div class="page-meta">
-  <span>Last updated: 2026.09.07</span>
+  <span>Last updated: 2026.09.23</span>
   <a class="hit-counter" href="https://hits.sh/tuffy-studio.github.io/" target="_blank" rel="noopener noreferrer" title="View public visit statistics">
     <img src="https://hits.sh/tuffy-studio.github.io.svg?view=total&amp;style=flat-square&amp;label=Visits&amp;color=9f9f9f&amp;labelColor=cccccc" alt="Total visits">
   </a>
