@@ -178,8 +178,8 @@ window.addEventListener('scroll', function() {
 - Top 2% (7/337) performance in [CVPR 2026, NTIRE Robust Deepfake Detection Challenge](https://arxiv.org/pdf/2604.24163). (Team Leader)
 
 # 🎖 Honors and Awards
-- *2026.09* Outstanding Master Student Scholarship of Harbin Institute of Technology. (6/154)
-- *2025.11* Outstanding Master Student Scholarship of Harbin Institute of Technology.
+- *2026.09* Outstanding Master's Student Scholarship of Harbin Institute of Technology. (6/154)
+- *2025.11* Outstanding Master's Student Scholarship of Harbin Institute of Technology.
 - *2025.05* Excellent Graduate of Harbin Institute of Technology.
 - *2024.12* National Scholarship of P.R. China.
 - *2023.11* Ministry of Education of P.R. China - Huawei Scholarship.
