@@ -178,6 +178,7 @@ window.addEventListener('scroll', function() {
 - Top 2% (7/337) performance in [CVPR 2026, NTIRE Robust Deepfake Detection Challenge](https://arxiv.org/pdf/2604.24163). (Team Leader)
 
 # 🎖 Honors and Awards
+- *2026.10* National Scholarship of P.R. China.
 - *2026.09* Outstanding Master's Student Scholarship of Harbin Institute of Technology. (6/154)
 - *2025.11* Outstanding Master's Student Scholarship of Harbin Institute of Technology.
 - *2025.05* Excellent Graduate of Harbin Institute of Technology.
@@ -188,7 +189,7 @@ window.addEventListener('scroll', function() {
 [^1]: My parents are big fans of Jay Chou (周杰伦), hence the name.
 
 <div class="page-meta">
-  <span>Last updated: 2026.09.23</span>
+  <span>Last updated: 2026.10.20</span>
   <a class="hit-counter" href="https://hits.sh/tuffy-studio.github.io/" target="_blank" rel="noopener noreferrer" title="View public visit statistics">
     <img src="https://hits.sh/tuffy-studio.github.io.svg?view=total&amp;style=flat-square&amp;label=Visits&amp;color=9f9f9f&amp;labelColor=cccccc" alt="Total visits">
   </a>
